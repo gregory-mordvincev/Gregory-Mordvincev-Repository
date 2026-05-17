@@ -1,0 +1,7 @@
+orders table:
+- id
+- customer
+- product
+- amount
+- price
+- date
